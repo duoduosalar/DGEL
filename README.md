@@ -9,9 +9,9 @@ Dynamic Graph Evolution Learning (DEGL) aims to solve the graph-based real-time 
 If you want to use our codes or refer our paper, please cite it:
 ```
 @inproceedings{10.1145/3539618.3591674,
-author = {Tang, Haoran and Wu, Shiqing and Xu, Guandong and Li, Qing},
+author = {Jeffrey Hu},
 title = {Dynamic Graph Evolution Learning for Recommendation},
-year = {2023},
+year = {2025},
 isbn = {9781450394086},
 publisher = {Association for Computing Machinery},
 address = {New York, NY, USA},
